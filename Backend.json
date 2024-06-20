@@ -2,7 +2,7 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_170_Athena_Commando_F_Luchador"
+            "AthenaCharacter:CID_434_Athena_Commando_F_StealthHonor"
         ],
         "price": 1200
     },
