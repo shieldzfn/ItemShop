@@ -1,4 +1,4 @@
-CID_220_Athena_Commando_F_Clown, 1200
+CID_434_Athena_Commando_F_StealthHonor, 1200
 CID_221_Athena_Commando_M_Clown, 1200
 na
 na
